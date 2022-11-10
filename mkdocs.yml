@@ -27,7 +27,7 @@ docs_dir: docs
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
-    name: 'material'
+    name: material
     custom_dir: overrides #  
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
@@ -40,7 +40,7 @@ theme:
       repo: fontawesome/brands/github-alt # modifie l'icône du lien vers le dépot du projet de l'en tête
     
     # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
-    # palette: 
+    palette: 
       - scheme: default # nom du thème clair
         primary: indigo # couleur primaire des titres, des liens, ..., à prendre dans la liste ou à personaliser dans extra.css
         accent: deep orange # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
