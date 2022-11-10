@@ -1,7 +1,7 @@
 
 /* Ajout pour couleurs p https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors */
 
-/*:root > * {
+:root > * {
   --md-primary-fg-color:        #8B6CEF;
   --md-primary-fg-color--light: #7D5BED;
   --md-primary-fg-color--dark:  #7d5bed70;
@@ -19,12 +19,12 @@
   }
   .md-typeset .adn > .admonition-title,
   .md-typeset .adn > summary {
-    background-color: rgba(139, 108, 239, 0.1);
-    border-color: rgb(139, 108, 239);
+    /*background-color: rgba(139, 108, 239, 0.1);
+    border-color: rgb(139, 108, 239);*/
   }
   .md-typeset .adn > .admonition-title::before,
   .md-typeset .adn > summary::before {
-    background-color: rgb(139, 108, 239);
+    /*background-color: rgb(139, 108, 239);*/
     -webkit-mask-image: var(--md-admonition-icon--adn);
             mask-image: var(--md-admonition-icon--adn);
   }
