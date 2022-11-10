@@ -1,11 +1,11 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Notebooks 2021-2022 # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
-site_url: https://luciensw.github.io/mkdocs/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+site_name: Obsigit # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
+site_url: https://luciensw.github.io/Obsigit/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/Luciensw/mkdocs
+repo_url: https://github.com/Luciensw/Obsigit
 repo_name: 'base_mkdocs_material' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
@@ -20,20 +20,7 @@ site_author: "Lucien SEVAULT WOLBER"
 # Dossier source, chemin relatif au fichier mkdocs.yml
 docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
-nav: 
-  - La page d'accueil : index.md
-  - 0_0 : 0_0-Decouverte-notebook.ipynb
-  - 0_1 : 0_1-MarkDown-Le_BN_pour_rapporter.ipynb
-  - 0_2 : 0_2-HTML-Le_BN_pour_multimedier.ipynb
-  - 0_3 : 0_3-LaTeX-Le_BN_pour_formuler.ipynb
-  - 0_4 : 0_4-Arithmetique-Le_BN_pour_calculer.ipynb
-  - 0_5 : 0_5-Display-Le_BN_pour_afficher.ipynb
-  - 0_6 : 0_6-Les_types_construits.ipynb
-  - 1 : 1_0-Lucien-NSI-Python.ipynb
-  - 2 : 2_0-Histoire_Informatique.ipynb
-  - 3_0 : 3_0-Binaire-Le_BN_pour_coder.ipynb
-  - 3_5 : 3_5-Tableau Python Binaire.ipynb
-  - Exercices pratiques : Pratique-NSI.ipynb
+# nav: 
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
