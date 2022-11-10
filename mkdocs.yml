@@ -43,13 +43,13 @@ theme:
     palette: 
       - scheme: default # nom du thème clair
         primary: indigo # couleur primaire des titres, des liens, ..., à prendre dans la liste ou à personaliser dans extra.css
-        accent: cyan # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        accent: deep orange # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
         primary: deep orange # couleur primaire des titres, des liens, ..., à prendre dans la liste ou à personaliser dans extra.css
-        accent: cyan
+        accent: indigo
         toggle:
           icon: material/weather-night
           name: Basculer en mode clair
