@@ -28,12 +28,12 @@ docs_dir: docs
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
     name: 'material'
-    # custom_dir: overrides #  
+    custom_dir: overrides #  
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
     # logo: images/gem.svg # image qui apparait dans l'en tête à gauche du titre de la page
     # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
-    favicon: images/obsidian-logo.png # LogoIO-Obsidian.png
+    # favicon: images/obsidian-logo.png # LogoIO-Obsidian.png
     icon:
       logo: fontawesome/solid/code # icone qui apparait dans l'en tête à gauche du titre de la page
       # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
