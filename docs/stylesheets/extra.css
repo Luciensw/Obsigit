@@ -1,7 +1,11 @@
 
 /* Ajout pour couleurs p https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors */
 
-
+/*:root > * {
+  --md-primary-fg-color:        #8B6CEF;
+  --md-primary-fg-color--light: #7D5BED;
+  --md-primary-fg-color--dark:  #7d5bed70;
+}*/
 
 /*Ajout pour admonition spéciale adn */
 :root {
