@@ -27,7 +27,7 @@ docs_dir: docs
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
-    name: 'material'
+    name: material
     # custom_dir: overrides #  
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
