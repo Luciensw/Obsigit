@@ -5,4 +5,5 @@
 > -C'est cool ça !  
 > -C'est genre vraiment trop bien.  
 > -Ouais...  
-> -Même sur android ?
+> -Même sur android ?  
+> -Mais bien sûr !
