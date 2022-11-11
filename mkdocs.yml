@@ -28,12 +28,12 @@ docs_dir: docs
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
     name: 'material'
-    # custom_dir: overrides #  
+    custom_dir: overrides #  
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
-    # logo: images/gem.svg # image qui apparait dans l'en tête à gauche du titre de la page
+    logo: images/gem.svg # image qui apparait dans l'en tête à gauche du titre de la page
     # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
-    # favicon: images/obsidian-logo.png # LogoIO-Obsidian.png
+    favicon: images/obsidian-logo.png # LogoIO-Obsidian.png
     icon:
       logo: fontawesome/solid/code # icone qui apparait dans l'en tête à gauche du titre de la page
       # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
@@ -96,7 +96,7 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
   - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
   - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
         custom_checkbox:    true    #   avec cases d'origine
-        # clickable_checkbox: true    #   et cliquables.
+        clickable_checkbox: true    #   et cliquables.
   - pymdownx.superfences:    # Imbrication de blocs. # pour admonitions MkDocs
       custom_fences:
         - name: mermaid
@@ -134,15 +134,15 @@ copyright: >
 ### Configuration de liens sociaux https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links 
 extra:
   social: # A personaliser...
-    # - icon: fontawesome/solid/paper-plane
-    #   link: mailto:eric.madec@ecmorlaix.fr
-    #   name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:lucien.sevault-wolber@eleves.ecmorlaix.fr
+      name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/
+      link: https://github.com/Luciensw/
       name: Compte GitHub
-    # - icon: fontawesome/solid/school
-    #   link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
-    #   name: Lycée Notre Dame du Mur 
+    - icon: fontawesome/solid/school
+      link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
+      name: Lycée Notre Dame du Mur 
 
   
 
