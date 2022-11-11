@@ -115,6 +115,8 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
 
 plugins:
   - search
+  - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+      include_source: True # Inclu une copie du fichier source.ipynb (ou .py) dans le dossier de la page sur le site pour son téléchargement
   - roamlinks 
   - mermaid2
   - callouts # Pour la conversion des callouts d'Obsidian en admonitions de MkDocs https://pypi.org/project/mkdocs-callouts/
