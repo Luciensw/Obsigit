@@ -1,3 +1,5 @@
+#mon_module
+
 def affiche_moyenne(prenom : str, note1 : float, note2 : float, note3 : float) -> str :
     """
     ==================================================================================================================

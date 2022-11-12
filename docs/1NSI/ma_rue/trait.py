@@ -1,3 +1,5 @@
+#trait
+
 # Dépendances
 from ma_rue import rue, affiche
 

@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+#balcon
 
 # Dépendances
 from ma_rue import rue, affiche

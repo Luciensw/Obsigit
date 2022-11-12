@@ -1,3 +1,5 @@
+#toits
+
 # Dépendances
 from ma_rue import rue, affiche
 from toit1 import toit1

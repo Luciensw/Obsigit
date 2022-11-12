@@ -1,3 +1,5 @@
+#mon_module_toile
+
 # Code de définition d'un nouveau canvas à enregistrer dans un fichier nommé mon_module_toile.py
 from ipycanvas import Canvas
 from math import pi, sin, cos

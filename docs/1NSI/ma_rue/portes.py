@@ -1,3 +1,5 @@
+#portes
+
 # Dépendances
 from ma_rue import rue, affiche
 from rectangle import rectangle

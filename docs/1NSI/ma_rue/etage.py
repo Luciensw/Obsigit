@@ -1,3 +1,5 @@
+#etage
+
 # Dépendances
 from ma_rue import rue, affiche
 from facade import facade

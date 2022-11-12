@@ -1,3 +1,5 @@
+#immeuble
+
 # Dépendances
 from ma_rue import rue, affiche
 from couleur_aleatoire import couleur_aleatoire
