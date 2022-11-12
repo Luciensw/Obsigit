@@ -63,7 +63,7 @@ theme:
         - toc.integrate # Table Of Content, table des matières intégrée dans la barre verticale de navigation
         - header.autohide # masquage automatique de l'en tête du site lorsque l'on descend dans la page
         # - navigation.indexes # incompatible avec toc.integrate https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages 
-        - navigation.expand # la barre latérale gauche développe toutes les sous-sections
+        # - navigation.expand # la barre latérale gauche développe toutes les sous-sections
         - search.suggest #  affiche l'achèvement le plus probable pour le dernier mot qui peut être accepté avec la touche -> 
         - search.highlight # met en surbrillance toutes les occurrences après avoir suivi le lien.
         - search.share # un clique sur le bouton de partage, copie l'URL automatiquement dans le presse-papiers.
