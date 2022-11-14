@@ -21,8 +21,8 @@ edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` 
 # Dossier source, chemin relatif au fichier mkdocs.yml
 docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
-nav: 
-  - NSI-Classeur : https://luciensw.github.io/NSI-Classeur/
+# nav: 
+#   - NSI-Classeur : https://luciensw.github.io/NSI-Classeur/
 #   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
