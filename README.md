@@ -1,5 +1,3 @@
 # Obsigit
 
-Coucou c'est moi.
-
-Bientôt sur ce site toutes mes notes de cours et mes notes perso.
+Le README avait disparu Dieu sait pourquoi.
