@@ -2,6 +2,12 @@ formation ::
 lieu ::
 comment postuler ::
 admission ::
-avis ::
+mon avis ::
 prix ::
-metiers ::
+debouches ::
+dates immersion ::
+dates portes ouvertes ::
+ordre de preference ::
+questions ::
+reponses ::
+divers ::
