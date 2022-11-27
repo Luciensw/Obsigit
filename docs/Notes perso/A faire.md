@@ -5,5 +5,10 @@
 - [ ] Jeu vidéo Godot
 - [ ] Lire death of a salesman
 - [ ] Faire des notes dans obsidian
-- [ ] Exposé HG
-- [ ] CP785PS Citroën C3
+- [ ] NSI Tours de Hanoi
+- [ ] Monologue
+- [ ] Maths exo
+- [ ] SVT Sujet 4
+- [ ] DNL oral
+- [ ] Anglais finir feuille
+- [ ] LLCE finir questions
