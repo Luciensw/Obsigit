@@ -7,7 +7,6 @@
 - [ ] Faire des notes dans obsidian
 - [ ] NSI Tours de Hanoi
 - [ ] Monologue
-- [ ] Maths exo
 - [ ] SVT Sujet 4
 - [ ] DNL oral
 - [ ] Anglais finir feuille
