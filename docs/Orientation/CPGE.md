@@ -1,7 +1,3 @@
-CUPGE (2)  
-RENNES (ESIR)  
-VANNES
-
 CPGE (Classes préparatoires aux grandes écoles)
 2 ans de lycée pour préparer aux concours des écoles d'ingé.
 Très peu de portes fermées.

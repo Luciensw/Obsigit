@@ -4,7 +4,6 @@
 - [ ] Site internet
 - [ ] Jeu vidéo Godot
 - [ ] Lire death of a salesman
-- [ ] Faire des notes dans obsidian
 - [ ] NSI Tours de Hanoi
 - [ ] Monologue
 - [ ] SVT Sujet 4
