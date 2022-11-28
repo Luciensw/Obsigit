@@ -2,8 +2,6 @@ Double licence maths-info (Université de Paris, Université Paris-Saclay, Unive
 
 Double licence électronique-info (Sorbonne Université)
 
-Double licence électronique-info (Sorbonne Université)
-
 Brest licence informatique/maths fondamentales/maths pmrc
 
 Vannes licence informatique/licence maths
