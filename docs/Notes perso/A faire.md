@@ -2,9 +2,8 @@
 - [ ] Pix
 - [ ] Site internet
 - [ ] Jeu vidéo Godot
-- [ ] Lire death of a salesman
-- [ ] NSI Tours de Hanoi - Pyxel
 - [ ] Monologue
 - [ ] SVT Sujet 4
 - [ ] DNL oral
-- [ ] HG - Révisions
+- [ ] Rattraper LLCE, philo, espagnol, physique, english, maths
+- [ ] NSI - SQL
