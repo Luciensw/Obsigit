@@ -1,7 +1,7 @@
 I saw this morning stars that shined 8  
-A million sparks   
-- kind  
--  
+A million sparks above the ground 8  
+- blind  
+- round/found
 
 I raised my head to see the sky 8  
 It cast on me its softened light 8  
