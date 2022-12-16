@@ -1,3 +1,7 @@
+```dataview
+TABLE formation
+FROM "Orientation"
+```
 [[UT]]  
 [[CPGE]]  
 [[CUPGE]]  
