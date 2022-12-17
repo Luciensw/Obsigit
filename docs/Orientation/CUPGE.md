@@ -1,2 +1,0 @@
-[[RENNES - ESIR]]  
-[[VANNES]]

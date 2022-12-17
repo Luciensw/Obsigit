@@ -1,6 +1,5 @@
 formation ::
 lieu ::
-comment postuler ::
 admission ::
 mon avis ::
 prix ::

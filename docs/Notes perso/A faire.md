@@ -2,7 +2,6 @@
 - [ ] Pix
 - [ ] Site internet
 - [ ] Jeu vidéo Godot
-- [ ] Monologue
 - [ ] SVT Sujet 4
 - [ ] DNL oral
 - [ ] Rattraper LLCE, philo, espagnol, physique, english, maths
