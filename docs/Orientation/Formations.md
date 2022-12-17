@@ -1,6 +1,6 @@
 ```dataview
 TABLE formation
-FROM "Orientation"
+	FROM "Formations"
 ```
 [[UT]]  
 [[CPGE]]  
