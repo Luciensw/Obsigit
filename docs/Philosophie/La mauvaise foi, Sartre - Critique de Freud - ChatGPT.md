@@ -1,4 +1,4 @@
-Sartre a été l'un des plus fervents critiques de la psychanalyse de Sigmund Freud. Selon Sartre, Freud a fait de la psychanalyse une "science de l'inconscient" en prétendant que les désirs et les motivations profondes de l'individu sont enfouis dans l'inconscient et ne peuvent être révélés que par des professionnels de la psychanalyse.
+Jean-Paul Sartre, philosophe et écrivain français célèbre pour son oeuvre phénoménologique et existentielle, a été l'un des plus fervents critiques de la psychanalyse de Sigmund Freud. Selon Sartre, Freud a fait de la psychanalyse une "science de l'inconscient" en prétendant que les désirs et les motivations profondes de l'individu sont enfouis dans l'inconscient et ne peuvent être révélés que par des professionnels de la psychanalyse.
 
 Cependant, Sartre rejette cette idée en soutenant que l'homme est totalement responsable de ses actions et de ses pensées, même si elles viennent de l'inconscient. Pour lui, la psychanalyse de Freud encourage les individus à se décharger de leur responsabilité en attribuant leurs actions à des forces inconscientes qui leur échappent, plutôt que de les assumer pleinement.
 
