@@ -1,5 +1,3 @@
-
-
 CPES (Cycle pluridisciplinaire d'études supérieures) à PSL
 - En 3 ans
 - 3 filières (sciences : spés maths + physique ou svt, economie, société et droit ou humanités)
