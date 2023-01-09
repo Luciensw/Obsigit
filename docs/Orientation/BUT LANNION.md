@@ -7,6 +7,6 @@ Processus ::
 Dates ::  
 Coût ::  
 Débouchés ::  
-Opinion ::  
-Ordre ::  
+Opinion ::  Un BUT c'est trop court.
+Ordre ::  ?
 Questions ::  

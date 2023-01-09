@@ -1,7 +1,7 @@
 #formation
 Nom ::  CUPGE - Parcours Informatique/Mathématiques
 Lieu ::  Vannes
-Lien ::  
+Lien ::  http://www.univ-ubs.fr/
 Attendus ::  
 Processus ::  
 Dates ::  
