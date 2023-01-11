@@ -8,5 +8,5 @@ Dates ::  Portes ouvertes : [21-01-2023 9h30-17h00](https://www.utc.fr/agenda/jo
 Coût ::  Frais de scolarité : 610€, frais de candidature : 105€
 Débouchés ::  Diplôme d'ingénieur
 Opinion ::  Ça a l'air super
-Ordre ::  3
+Ordre ::  2
 Questions ::  

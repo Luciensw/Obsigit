@@ -22,8 +22,8 @@
 ---
 
 # Plan D
-![UTC](https://www.utc.fr/wp-content/uploads/sites/28/2019/05/SU-UTC18-70.svg)
-![INSA](https://www.insa-rennes.fr/typo3conf/ext/tc_theme_site/Resources/Public/Images/logo.png)
+![Sorbonne](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_TINuoUgw7qfIKgdwlnZxagjXK4H6nWkGRg742xm52XKe9Vp366DFKEmt6cOfwYM63_w&usqp=CAU)
+![Dauphine](https://i0.wp.com/lyceeutrillo.fr/wp-content/uploads/2016/04/DWpY84pXkAEqdTF.jpg?fit=600%2C200&ssl=1)
 
 ---
 
