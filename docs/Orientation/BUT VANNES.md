@@ -1,4 +1,3 @@
-#formation
 Nom ::  
 Lieu ::  
 Lien ::  

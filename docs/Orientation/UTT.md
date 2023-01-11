@@ -1,4 +1,3 @@
-#formation
 Nom ::  Formation d'ingénieur Bac + 5 - Série générale
 Lieu ::  Troyes
 Lien ::  http://www.utt.fr/

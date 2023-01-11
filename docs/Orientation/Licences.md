@@ -1,4 +1,4 @@
-Double licence maths-info (Université de Paris, Université Paris-Saclay, Université Paris Est Créteuil, Université Paris 13, Université Gustave Eiffel, Dauphine - PSL)
+Double licence maths-info (Université de Paris, Université Paris-Saclay, Université Paris Est Créteuil, Université Paris 13, Université Gustave Eiffel, Dauphine - PSL, Angers)
 
 Double licence électronique-info (Sorbonne Université)
 

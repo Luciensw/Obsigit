@@ -1,4 +1,3 @@
-#formation
 Nom ::  Formation d'ingénieur Bac + 5 - Série générale
 Lieu ::  Belfort Montbéliard
 Lien ::  http://www.utbm.fr/
